@@ -716,8 +716,3 @@ a {
     top: 55%;
     padding: 6px;
 }
-body{
-    background-image: url("assets/scribble.png");
-    position: absolute;
-    height:2000px;
-}
