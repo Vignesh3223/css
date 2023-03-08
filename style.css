@@ -1,13 +1,12 @@
 /*header*/
 /*navigation bar*/
 .nav {
-    display: inline;
+    position: relative;
     justify-content: center;
-    background-image: url("assets/Shape.png");
-    width: auto;
+    background-image: url("assets/scribble.png");
+    background-color: #b13941;
+    background-size:cover;
     height: 80px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .nav li {
@@ -59,7 +58,9 @@
 /*layer 2*/
 .group2 {
     position: relative;
-    background-image: url("assets/back2.png");
+    background-color: #b13941;
+    background-image: url("assets/scribble.png");
+    background-size: cover;
     height: 580px;
 }
 
@@ -161,7 +162,9 @@ a {
 /*layer 4*/
 .group4 {
     position: relative;
-    background-image: url("assets/back2.png");
+    background-color: #b13941;
+    background-image: url("assets/scribble.png");
+    background-size: cover;
     height: 700px;
 }
 
@@ -418,7 +421,9 @@ a {
 
 /*layer 6*/
 .group6 {
-    background-image: url("assets/back2.png");
+    background-color: #b13941;
+    background-image: url("assets/scribble.png");
+    background-size: cover;
     position: relative;
     height: 500px;
 }
@@ -710,4 +715,9 @@ a {
     left: 56%;
     top: 55%;
     padding: 6px;
+}
+body{
+    background-image: url("assets/scribble.png");
+    position: absolute;
+    height:2000px;
 }
