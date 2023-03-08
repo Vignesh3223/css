@@ -3,7 +3,7 @@
 .nav {
     position: relative;
     justify-content: center;
-    background-image: url("assets/scribble.png");
+    background-image: url("assets/scribble1.png");
     background-color: #b13941;
     background-size:cover;
     height: 80px;
@@ -59,7 +59,7 @@
 .group2 {
     position: relative;
     background-color: #b13941;
-    background-image: url("assets/scribble.png");
+    background-image: url("assets/scribble1.png");
     background-size: cover;
     height: 580px;
 }
@@ -163,7 +163,7 @@ a {
 .group4 {
     position: relative;
     background-color: #b13941;
-    background-image: url("assets/scribble.png");
+    background-image: url("assets/scribble1.png");
     background-size: cover;
     height: 700px;
 }
@@ -422,7 +422,7 @@ a {
 /*layer 6*/
 .group6 {
     background-color: #b13941;
-    background-image: url("assets/scribble.png");
+    background-image: url("assets/scribble1.png");
     background-size: cover;
     position: relative;
     height: 500px;
@@ -574,7 +574,7 @@ a {
 /*footer*/
 .group8 {
     position: relative;
-    background-image: url("assets/back2.png");
+    background-color: #b13941;
     height: 300px;
 }
 
