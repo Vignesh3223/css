@@ -5,22 +5,89 @@
     justify-content: center;
     background-image: url("assets/scribble1.png");
     background-color: #b13941;
-    background-size:cover;
+    background-size: cover;
     height: 80px;
 }
 
-.nav li {
-    padding: 30px;
-    color: white;
-    justify-content: center;
+#item1 {
+    position: absolute;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: #efefef;
+    font-weight: bold;
+    font-family: serif;
     font-size: x-large;
-    font-family: Serif;
+    left: 15%;
+    top: 30%;
+}
+
+#item2 {
+    position: absolute;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: #efefef;
+    font-weight: bold;
+    font-family: serif;
+    font-size: x-large;
+    left: 24%;
+    top: 30%;
+}
+
+#item3 {
+    position: absolute;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: #efefef;
+    font-weight: bold;
+    font-family: serif;
+    font-size: x-large;
+    left: 33%;
+    top: 30%;
+}
+
+#item4 {
+    position: absolute;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: #efefef;
+    font-weight: bold;
+    font-family: serif;
+    font-size: x-large;
+    left: 59%;
+    top: 30%;
+}
+
+#item5 {
+    position: absolute;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: #efefef;
+    font-weight: bold;
+    font-family: serif;
+    font-size: x-large;
+    left: 68%;
+    top: 30%;
+}
+
+#item6 {
+    position: absolute;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: #efefef;
+    font-weight: bold;
+    font-family: serif;
+    font-size: x-large;
+    left: 77%;
+    top: 30%;
 }
 
 #one {
+    position: absolute;
     width: 50px;
     height: 50px;
-    margin-top: 22px;
+    top: 25%;
+    left: 46%;
+
 }
 
 /*layer 1*/
@@ -687,7 +754,7 @@ a {
 }
 
 #eighteen {
-    background-color:  #f8eed3;
+    background-color: #f8eed3;
     position: absolute;
     width: 10%;
     height: 18%;
