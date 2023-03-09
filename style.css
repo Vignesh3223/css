@@ -524,17 +524,19 @@ video {
     width: 45%;
     height: 75%;
 }
-video[poster]{
-   object-fit: cover;
+
+video[poster] {
+    object-fit: cover;
 }
 
-#eleven{
+#eleven {
     position: absolute;
-    height:4%;
-    left:26%;
-    top:40%;
+    height: 4%;
+    left: 26%;
+    top: 40%;
 
 }
+
 #twelve {
     background-color: wheat;
     position: absolute;
@@ -672,6 +674,7 @@ video[poster]{
     font-size: larger;
     color: white;
 }
+
 #par152 {
     font-family: serif;
     text-decoration: none;
@@ -681,6 +684,7 @@ video[poster]{
     font-size: larger;
     color: white;
 }
+
 #par153 {
     font-family: serif;
     text-decoration: none;
@@ -720,6 +724,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par182 {
     font-family: serif;
     position: absolute;
@@ -729,6 +734,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par183 {
     font-family: serif;
     position: absolute;
@@ -738,6 +744,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par184 {
     font-family: serif;
     position: absolute;
@@ -747,6 +754,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par185 {
     font-family: serif;
     position: absolute;
@@ -756,6 +764,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par186 {
     font-family: serif;
     position: absolute;
@@ -785,6 +794,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par202 {
     font-family: serif;
     position: absolute;
@@ -794,6 +804,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par203 {
     font-family: serif;
     position: absolute;
@@ -803,6 +814,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par204 {
     font-family: serif;
     position: absolute;
@@ -812,6 +824,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par205 {
     font-family: serif;
     position: absolute;
@@ -821,6 +834,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par206 {
     font-family: serif;
     position: absolute;
@@ -830,6 +844,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par21 {
     font-family: serif;
     position: absolute;
@@ -849,6 +864,7 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par222 {
     font-family: serif;
     position: absolute;
@@ -858,38 +874,42 @@ video[poster]{
     color: white;
     font-size: larger;
 }
+
 #par223 {
     font-family: serif;
     position: absolute;
     text-decoration: none;
-    left:  60.7%;
+    left: 60.7%;
     top: 44%;
     color: white;
     font-size: larger;
 }
+
 #par224 {
     font-family: serif;
     position: absolute;
     text-decoration: none;
-    left:  60.7%;
+    left: 60.7%;
     top: 52%;
     color: white;
     font-size: larger;
 }
+
 #par225 {
     font-family: serif;
     position: absolute;
     text-decoration: none;
-    left:  60.7%;
+    left: 60.7%;
     top: 60%;
     color: white;
     font-size: larger;
 }
+
 #par226 {
     font-family: serif;
     position: absolute;
     text-decoration: none;
-    left:  60.7%;
+    left: 60.7%;
     top: 68%;
     color: white;
     font-size: larger;
