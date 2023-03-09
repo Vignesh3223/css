@@ -524,16 +524,8 @@ a {
     width: 45%;
     height: 70%;
     left: 5%;
-    filter: brightness(50%);
 }
 
-#eleven {
-    position: absolute;
-    top: 45%;
-    width: 4%;
-    height: 13%;
-    left: 25%;
-}
 
 #twelve {
     background-color: wheat;
@@ -663,41 +655,107 @@ a {
     font-weight: bold;
 }
 
-#par15 {
+#par151 {
     font-family: serif;
+    text-decoration: none;
     position: absolute;
-    left: 16%;
+    left: 19%;
     top: 35%;
-    font-size: 100%;
+    font-size: larger;
+    color: white;
+}
+#par152 {
+    font-family: serif;
+    text-decoration: none;
+    position: absolute;
+    left: 19%;
+    top: 43%;
+    font-size: larger;
+    color: white;
+}
+#par153 {
+    font-family: serif;
+    text-decoration: none;
+    position: absolute;
+    left: 19.3%;
+    top: 51%;
+    font-size: larger;
     color: white;
 }
 
 #par16 {
     font-family: serif;
     position: absolute;
+    text-decoration: none;
     left: 19%;
     top: 67%;
-    font-size: 100%;
+    font-size: larger;
     color: white;
 }
 
 #par17 {
     font-family: serif;
     position: absolute;
-    left: 36%;
+    left: 35.8%;
     top: 15%;
     font-size: 150%;
     color: #f8eed3;
     font-weight: bold;
 }
 
-#par18 {
+#par181 {
     font-family: serif;
     position: absolute;
-    left: 32.5%;
+    text-decoration: none;
+    left: 36%;
     top: 28%;
     color: white;
-    font-size: 100%;
+    font-size: larger;
+}
+#par182 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 36%;
+    top: 36%;
+    color: white;
+    font-size: larger;
+}
+#par183 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 36%;
+    top: 44%;
+    color: white;
+    font-size: larger;
+}
+#par184 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 36%;
+    top: 52%;
+    color: white;
+    font-size: larger;
+}
+#par185 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 36%;
+    top: 60%;
+    color: white;
+    font-size: larger;
+}
+#par186 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 36%;
+    top: 68%;
+    color: white;
+    font-size: larger;
 }
 
 #par19 {
@@ -710,15 +768,60 @@ a {
     font-weight: bold;
 }
 
-#par20 {
+#par201 {
     font-family: serif;
     position: absolute;
-    left: 42.5%;
+    text-decoration: none;
+    left: 46%;
     top: 28%;
     color: white;
-    font-size: 100%;
+    font-size: larger;
 }
-
+#par202 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 46%;
+    top: 36%;
+    color: white;
+    font-size: larger;
+}
+#par203 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 46%;
+    top: 44%;
+    color: white;
+    font-size: larger;
+}
+#par204 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 46%;
+    top: 52%;
+    color: white;
+    font-size: larger;
+}
+#par205 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 46%;
+    top: 60%;
+    color: white;
+    font-size: larger;
+}
+#par206 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 46%;
+    top: 68%;
+    color: white;
+    font-size: larger;
+}
 #par21 {
     font-family: serif;
     position: absolute;
@@ -729,13 +832,59 @@ a {
     font-weight: bold;
 }
 
-#par22 {
+#par221 {
     font-family: serif;
     position: absolute;
-    left: 57.5%;
+    text-decoration: none;
+    left: 61%;
     top: 28%;
     color: white;
-    font-size: 100%;
+    font-size: larger;
+}
+#par222 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left: 60.7%;
+    top: 36%;
+    color: white;
+    font-size: larger;
+}
+#par223 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left:  60.7%;
+    top: 44%;
+    color: white;
+    font-size: larger;
+}
+#par224 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left:  60.7%;
+    top: 52%;
+    color: white;
+    font-size: larger;
+}
+#par225 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left:  60.7%;
+    top: 60%;
+    color: white;
+    font-size: larger;
+}
+#par226 {
+    font-family: serif;
+    position: absolute;
+    text-decoration: none;
+    left:  60.7%;
+    top: 68%;
+    color: white;
+    font-size: larger;
 }
 
 #seventeen {
