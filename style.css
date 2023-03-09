@@ -182,7 +182,7 @@
 /*layer 3*/
 .group3 {
     position: relative;
-    background-image: url("assets/back3.png");
+    background-color: #feedda;
     height: 780px;
 }
 
@@ -331,7 +331,7 @@ a {
 /*layer 5*/
 .group5 {
     position: relative;
-    background-image: url("assets/back3.png");
+    background-color: #feedda;
     height: 760px;
 }
 
@@ -516,51 +516,59 @@ a {
     right: 10%;
 }
 
-#ten {
-    display: block;
+video {
     float: left;
     position: absolute;
     top: 15%;
-    width: 45%;
-    height: 70%;
     left: 5%;
+    width: 45%;
+    height: 75%;
+}
+video[poster]{
+   object-fit: cover;
 }
 
+#eleven{
+    position: absolute;
+    height:4%;
+    left:26%;
+    top:40%;
 
+}
 #twelve {
     background-color: wheat;
     position: absolute;
-    width: 2.5%;
-    height: 5.5%;
+    width: 2%;
+    height: 5%;
     left: 55%;
     top: 58%;
-    padding: 6px;
+    padding-left: 8px;
 }
 
 #thirteen {
     background-color: wheat;
     position: absolute;
-    width: 2.5%;
-    height: 5.5%;
+    width: 2.2%;
+    height: 5.2%;
     left: 60%;
     top: 58%;
-    padding: 6px;
+    padding-left: 3px;
 }
 
 #fourteen {
     background-color: wheat;
     position: absolute;
-    width: 2.5%;
-    height: 5.5%;
+    width: 2%;
+    height: 5%;
     left: 65%;
     top: 58%;
-    padding: 6px;
+    padding-left: 2.5px;
 }
 
 /*layer 7*/
 .group7 {
     position: relative;
-    background-image: url("assets/back4.png");
+    background-color: #ffffff;
     height: 580px;
 }
 
@@ -909,7 +917,7 @@ a {
     height: 18%;
     left: 12%;
     top: 55%;
-    padding: 6px;
+    padding-left: 6.5px;
 }
 
 #nineteen {
@@ -919,7 +927,7 @@ a {
     height: 18%;
     left: 34%;
     top: 55%;
-    padding: 6px;
+    padding-left: 1px;
 }
 
 #twenty {
@@ -929,5 +937,5 @@ a {
     height: 18%;
     left: 56%;
     top: 55%;
-    padding: 6px;
+    padding-left: 2px;
 }
