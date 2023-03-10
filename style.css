@@ -195,7 +195,7 @@
 
 #par5 {
     display: inline-block;
-    color: black;
+    color:  #000000;
     position: absolute;
     font-family: serif;
     font-weight: bolder;
@@ -538,7 +538,7 @@ video[poster] {
 }
 
 #twelve {
-    background-color: wheat;
+    background-color: #f8eed3;
     color: #b13941;
     position: absolute;
     width: 2%;
@@ -550,7 +550,7 @@ video[poster] {
 }
 
 #thirteen {
-    background-color: wheat;
+    background-color: #f8eed3;
     color: #b13941;
     position: absolute;
     width: 2%;
@@ -562,7 +562,7 @@ video[poster] {
 }
 
 #fourteen {
-    background-color: wheat;
+    background-color:  #f8eed3;
     color: #b13941;
     position: absolute;
     width: 2%;
@@ -678,7 +678,7 @@ video[poster] {
     left: 19%;
     top: 35%;
     font-size: larger;
-    color: white;
+    color:  #ffffff;
 }
 
 #par152 {
@@ -688,7 +688,7 @@ video[poster] {
     left: 19%;
     top: 43%;
     font-size: larger;
-    color: white;
+    color: #ffffff;
 }
 
 #par153 {
@@ -698,7 +698,7 @@ video[poster] {
     left: 19.3%;
     top: 51%;
     font-size: larger;
-    color: white;
+    color: #ffffff;
 }
 
 #par16 {
@@ -708,7 +708,7 @@ video[poster] {
     left: 19%;
     top: 67%;
     font-size: larger;
-    color: white;
+    color: #ffffff;
 }
 
 #par17 {
@@ -727,7 +727,7 @@ video[poster] {
     text-decoration: none;
     left: 36%;
     top: 28%;
-    color: white;
+    color: #ffffff;
     font-size: larger;
 }
 
@@ -737,7 +737,7 @@ video[poster] {
     text-decoration: none;
     left: 36%;
     top: 36%;
-    color: white;
+    color: #ffffff;
     font-size: larger;
 }
 
@@ -747,7 +747,7 @@ video[poster] {
     text-decoration: none;
     left: 36%;
     top: 44%;
-    color: white;
+    color: #ffffff;
     font-size: larger;
 }
 
@@ -757,7 +757,7 @@ video[poster] {
     text-decoration: none;
     left: 36%;
     top: 52%;
-    color: white;
+    color:  #ffffff;
     font-size: larger;
 }
 
@@ -767,7 +767,7 @@ video[poster] {
     text-decoration: none;
     left: 36%;
     top: 60%;
-    color: white;
+    color:  #ffffff;
     font-size: larger;
 }
 
@@ -777,7 +777,7 @@ video[poster] {
     text-decoration: none;
     left: 36%;
     top: 68%;
-    color: white;
+    color: #ffffff;
     font-size: larger;
 }
 
@@ -797,7 +797,7 @@ video[poster] {
     text-decoration: none;
     left: 46%;
     top: 28%;
-    color: white;
+    color:  #ffffff;
     font-size: larger;
 }
 
@@ -807,7 +807,7 @@ video[poster] {
     text-decoration: none;
     left: 46%;
     top: 36%;
-    color: white;
+    color: #ffffff;
     font-size: larger;
 }
 
@@ -817,7 +817,7 @@ video[poster] {
     text-decoration: none;
     left: 46%;
     top: 44%;
-    color: white;
+    color:  #ffffff;
     font-size: larger;
 }
 
@@ -827,7 +827,7 @@ video[poster] {
     text-decoration: none;
     left: 46%;
     top: 52%;
-    color: white;
+    color: #ffffff;
     font-size: larger;
 }
 
@@ -837,7 +837,7 @@ video[poster] {
     text-decoration: none;
     left: 46%;
     top: 60%;
-    color: white;
+    color: #ffffff;
     font-size: larger;
 }
 
@@ -847,7 +847,7 @@ video[poster] {
     text-decoration: none;
     left: 46%;
     top: 68%;
-    color: white;
+    color:  #ffffff;
     font-size: larger;
 }
 
@@ -867,7 +867,7 @@ video[poster] {
     text-decoration: none;
     left: 61%;
     top: 28%;
-    color: white;
+    color:  #ffffff;
     font-size: larger;
 }
 
@@ -877,7 +877,7 @@ video[poster] {
     text-decoration: none;
     left: 60.7%;
     top: 36%;
-    color: white;
+    color:  #ffffff;
     font-size: larger;
 }
 
@@ -887,7 +887,7 @@ video[poster] {
     text-decoration: none;
     left: 60.7%;
     top: 44%;
-    color: white;
+    color:  #ffffff;
     font-size: larger;
 }
 
@@ -897,7 +897,7 @@ video[poster] {
     text-decoration: none;
     left: 60.7%;
     top: 52%;
-    color: white;
+    color:  #ffffff;
     font-size: larger;
 }
 
@@ -907,7 +907,7 @@ video[poster] {
     text-decoration: none;
     left: 60.7%;
     top: 60%;
-    color: white;
+    color:  #ffffff;
     font-size: larger;
 }
 
@@ -917,7 +917,7 @@ video[poster] {
     text-decoration: none;
     left: 60.7%;
     top: 68%;
-    color: white;
+    color: #ffffff;
     font-size: larger;
 }
 
@@ -933,7 +933,7 @@ video[poster] {
     top: 40%;
     left: 74%;
     font-size: 100%;
-    color: white;
+    color:  #ffffff;
 }
 
 #eighteen {
